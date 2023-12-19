@@ -1,0 +1,16 @@
+@media screen and (min-width:1200px) {   
+    #watch-poster{
+       margin-top:auto !important;
+    }
+}
+.axil-product.product-style-seven:before{
+    height: 100% !important;
+}
+.axil-product-table tbody td {
+    padding: 15px;
+    font-size: 15px !important;
+    min-width: 0 !important;
+}
+.pro-qty .qtybtn{
+    width: 14px !important;
+}

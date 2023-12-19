@@ -1,0 +1,12 @@
+[17-Jan-2023 12:05:34 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 135168 bytes) in /home/aonedigitalindia/public_html/demo/vendor/composer/autoload_static.php on line 10854
+[24-Jan-2023 17:18:00 Asia/Calcutta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/aonedigitalindia/public_html/vendor/composer/ClassLoader.php on line 571
+[13-Jun-2023 07:17:29 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 1609728 bytes) in /home/syncbel/public_html/vendor/composer/autoload_real.php on line 29
+[23-Jun-2023 11:52:03 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 69632 bytes) in /home/syncbel/public_html/vendor/composer/autoload_static.php on line 5455
+[16-Jul-2023 11:32:33 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 90112 bytes) in /home/syncbel/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 133
+[16-Jul-2023 11:32:33 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 90112 bytes) in /home/syncbel/public_html/vendor/laravel/framework/src/Illuminate/Routing/UrlGenerator.php on line 133
+[12-Aug-2023 17:47:32 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 135168 bytes) in /home/syncbel/public_html/vendor/composer/autoload_static.php on line 10844
+[24-Aug-2023 08:38:47 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 49152 bytes) in /home/syncbel/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[24-Aug-2023 23:40:49 Asia/Calcutta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 65536 bytes) in /home/syncbel/public_html/vendor/composer/ClassLoader.php on line 571
+[06-Sep-2023 10:42:25 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 20480 bytes) in /home/syncbel/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteGroup.php on line 28
+[06-Sep-2023 10:42:25 Asia/Dhaka] PHP Fatal error:  Out of memory (allocated 10485760) (tried to allocate 49152 bytes) in /home/syncbel/public_html/vendor/laravel/framework/src/Illuminate/Routing/RouteFileRegistrar.php on line 35
+[11-Sep-2023 14:13:32 UTC] PHP Fatal error:  Out of memory (allocated 8388608) (tried to allocate 4096 bytes) in /home/syncbel/public_html/vendor/composer/autoload_static.php on line 926

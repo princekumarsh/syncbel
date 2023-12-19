@@ -1,0 +1,16 @@
+[19-Jun-2023 11:20:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/syncbel/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/syncbel/public_html/config/cache.php on line 21
+[20-Jun-2023 09:36:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/syncbel/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/syncbel/public_html/config/cache.php on line 21
+[30-Jun-2023 11:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/syncbel/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/syncbel/public_html/config/cache.php on line 21
+[28-Jul-2023 06:31:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/syncbel/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/syncbel/public_html/config/cache.php on line 21
